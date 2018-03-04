@@ -1,0 +1,78 @@
+.img-product {
+    width: 100px;
+    height: 100px;
+}
+
+.header-principal{
+    background: #fff159;
+    height: 80px;
+}
+
+.icon {
+    width: 60px;
+    height: 60px;
+}
+
+.group {
+    /* outline: 1px solid red; */
+    background: #fff;
+    border-radius: 5px;
+}
+
+body {
+    background: #ebebeb;
+}
+
+.img {
+    width: 250px;
+    height: 200px;
+}
+
+.strong {
+  font-weight: 500;
+  font-size: 25px;
+}
+
+.none {
+    display: none;
+}
+
+.block {
+    display:block;
+}
+
+.back-white {
+    background: #fff;
+}
+
+.small {
+    font-size: 14px;
+}
+
+.color-green {
+    color:green;
+}
+
+.color-gray {
+    color:gray;
+}
+.none-click {
+  display: none;
+}
+.block-click {
+  display: block !important;
+}
+.clicked{
+color: inherit;
+}
+.float-rigth {
+    float: right;
+}
+.equis {
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.title {
+  font-family: 'Righteous', cursive;
+}
