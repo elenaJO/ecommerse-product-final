@@ -1,0 +1,22 @@
+{
+  "name": "ecommerse-product-final",
+  "version": "1.0.0",
+  "description": "spa web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elenaJO/ecommerse-product-final.git"
+  },
+  "keywords": [
+    "spa"
+  ],
+  "author": "elena&lilliamHaro\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[L\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[E\u001b[C\u001b[C\u001b[C\u001b[CJapa\u001b[C\u001b[D&LilliamHaro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elenaJO/ecommerse-product-final/issues"
+  },
+  "homepage": "https://github.com/elenaJO/ecommerse-product-final#readme"
+}
