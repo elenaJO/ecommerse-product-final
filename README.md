@@ -1,25 +1,19 @@
 # E-commerce
 
-* **Track:** _Especialización Front-end_
-* **Curso:** _CONSTRUYE UNA SINGLE PAGE APP (SPA) MULTI-USUARIO CONSUMIENDO DATA REMOTA_
-* **Unidad:** _Producto final_
+Aplicación que obtiene los productos del API de Mercado Libre y realiza una compra electronica a traves del API de Paypal.
 
-***
+## Vistas
 
-## Flujo de trabajo
+![Sin titulo](public/assets/images/pantalla1.PNG)
 
-1. Debes realizar un [**fork**](https://gist.github.com/ivandevp/1de47ae69a5e139a6622d78c882e1f74)
-   de este repositorio.
+* La busqueda se realiza introduciendo el producto a buscar, hacer click en el boton VER para poder comprar.
 
-2. Luego deberás **clonar** tu fork en tu máquina. Recuerda que el comando a usar
-   es `git clone` y su estructura normalmente se ve así:
+![Sin titulo](public/assets/images/pantalla2.PNG)
 
-   ```bash
-   git clone https://github.com/<nombre-de-usuario>/freelancer.git
-   ```
+* Se mostrara un boton para añadir al carrito y realizar la compra respectiva.
 
-3. Cuando hayas terminado tu producto, envía un Pull Request a este repositorio
-   (puedes solicitar apoyo de tus profes para este paso).
+![Sin titulo](public/assets/images/pantalla3.PNG)
 
-> Nota: No olvides que es una buena práctica describir tu proyecto en este
-> archivo `README.md` y también desplegar tu web a Github Pages :smiley:.
+* Despues se mostrara un resumen con todos los productos que desee comprar y se le direcciona a paypal para hacer la respectiva compra.
+
+![Sin titulo](public/assets/images/pantalla4.PNG)
